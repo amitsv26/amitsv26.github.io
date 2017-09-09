@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Amit Gupta</title>
 </head>
 <body>
 <h1 style="font-family:serif;color:Blue;font-size:250%;text-align:center;">Amit Gupta</h1>
